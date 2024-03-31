@@ -10,7 +10,7 @@ To do this, you’ll need to do some accounting on the incident to better unders
 
 <h2>Access Control Investigation</h2>
 
-[Access Control Investigation](https://github.com/DigitalWatchmen/Access-Control/blob/main/Access%20Control.pdf)
+[Access Control Investigation](https://github.com/DigitalWatchmen/Access-Control/blob/main/Access%20Controls%20Investigation.pdf)
 
 <h2>Resources</h2>
 
