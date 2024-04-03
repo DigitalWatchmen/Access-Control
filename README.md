@@ -8,7 +8,7 @@ Recently, a deposit was made from the business to an unknown bank account. The f
 
 To do this, you’ll need to do some accounting on the incident to better understand what happened. First, you will review the access log of the incident. Next, you will take notes that can help you identify a possible threat actor. Then, you will spot issues with the access controls that were exploited by the user. Finally, you will recommend mitigations that can improve the business' access controls and reduce the likelihood that this incident reoccurs.
 
-<h2>Access Control Investigation</h2>
+<h2>Notes, Issues, and Recommendations</h2>
 
 [Access Control Investigation](https://github.com/DigitalWatchmen/Access-Control/blob/main/Access%20Controls%20Investigation.pdf)
 
